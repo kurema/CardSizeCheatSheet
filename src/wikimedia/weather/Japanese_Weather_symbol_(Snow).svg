@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="default" version="1.1" width="250" height="250" xmlns="http://www.w3.org/2000/svg">
+	<title>日本式天気記号 - 雪</title>
+	<rect x="0" y="0" width="250" height="250" fill="white" />
+	<circle cx="125" cy="125"  r="120" fill="white" stroke="black" stroke-width="5px" />
+	<line x1="5" y1="125" x2="245" y2="125" stroke="black" stroke-width="5px" />
+	<line x1="33.0746668" y1="47.8654868" x2="216.925333" y2="202.134513" stroke="black" stroke-width="5px" />
+	<line x1="33.0746668" y1="202.134513" x2="216.925333" y2="47.8654868" stroke="black" stroke-width="5px" />
+</svg>
