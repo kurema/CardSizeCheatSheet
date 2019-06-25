@@ -5,6 +5,13 @@
 ![表](img/page1.png)
 ![裏](img/page2.png)
 
+## 利用法
+* 名刺入れに忍ばせるといざという時便利！
+* 名刺の裏に印刷すると喜ばれます！
+* ネットオークションのおまけで添付！
+* 友達に無料配布！
+* ロゴや会社名を追加して販促活動に！
+
 ## ダウンロード
 A4厚紙用は[sheet10.pdf](sheet10.pdf)でDownloadをクリックしてください。
 表面・裏面はsrcフォルダ内にあります。
@@ -144,3 +151,14 @@ CC0 1.0 全世界 (CC0 1.0) パブリック・ドメイン提供
 1. 上の2を下の3に合わせます。
 2. 上が1の目盛りの場所で下が15です。
 3. 3桁÷2桁かつ下側左半分で計算が済んでいるので3-2+1=2で答えは2桁、つまり20です。
+
+## 参考資料
+### [日本地図](https://commons.wikimedia.org/wiki/File:Prefectures_of_Japan_nallow_gray_labeled_Jp.svg)
+Creative Commons CC0 1.0 Universal Public Domain Dedication
+
+### 日本式天気記号
+Wikimedia  
+パブリックドメイン
+
+### 各種統計
+Wikipedia / Google / 世界経済のネタ帳
